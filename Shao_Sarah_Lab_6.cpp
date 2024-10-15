@@ -1,4 +1,4 @@
-//Sarah Shao
+//Sarah Shao and Crystal Zhang
 //10/15/2024
 //Lab 6
 
