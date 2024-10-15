@@ -56,4 +56,8 @@ int main()
     return 0;
     //ends program
 
+    /* Sum of both integers: 37
+    Character after this character: T
+    The sentence: Bazinga! */
+
 }
